@@ -1,0 +1,12 @@
+.important{
+  color: red;
+  font-weight: 550
+}
+
+.italic_font{
+  font-style: italic;
+}
+
+p.blue{
+  color: blue;
+}
